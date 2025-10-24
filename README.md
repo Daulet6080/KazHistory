@@ -1,4 +1,7 @@
-# KazHistory Project
+# KazHistory
 
-Backend — из ветки my-backup  
-Frontend — из ветки Nurym  
+## Backend
+Описание из твоей версии (my-backup / main)
+
+## Frontend
+Описание из Nurym (GitHub)
