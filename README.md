@@ -17,4 +17,8 @@ KazHistoryWiki — это интерактивная веб-платформа, 
 
 ## Участники группы
 - Zharylkhassyn Nurymzhan 
+<<<<<<< HEAD
+=======
+- Daribayev Alzhan
+>>>>>>> 85dccef (Full project: backend + frontend)
 - Daulet Darmen
