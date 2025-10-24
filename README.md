@@ -17,5 +17,4 @@ KazHistoryWiki — это интерактивная веб-платформа, 
 
 ## Участники группы
 - Zharylkhassyn Nurymzhan 
-- Daribayev Alzhan
 - Daulet Darmen
